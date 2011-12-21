@@ -1,0 +1,1 @@
+Code is explained in this "blog post":http://nt.github.com/2011/12/21/detecter-les-zones-nettes-dans-une-image-grace-a-python.html
